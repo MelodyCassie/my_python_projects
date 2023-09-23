@@ -4,10 +4,11 @@ def printfivestars():
 def printtwospacedstars():
     print("*   *")
 
-count_int = 0
-while count_int < 3:
+count = 0
+while count < 3:
+ printfivestars()
  printtwospacedstars()
 
-count_int += 1
+count += 1
 
 printfivestars()
