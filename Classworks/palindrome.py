@@ -11,4 +11,4 @@ def check_if_palindrome(number):
        return False
 
 
-print(check_if_palindrome(111111111111111))
+print(check_if_palindrome(989))
