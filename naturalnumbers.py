@@ -1,5 +1,4 @@
-
-for index in range(1, 11):
+for index in range(-1,-11, ):
     print(index)
 
 
